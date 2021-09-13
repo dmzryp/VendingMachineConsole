@@ -1,0 +1,16 @@
+D:\git\VendingMachineConsole\obj\Debug\net5.0\VendingMachineConsole.csproj.AssemblyReference.cache
+D:\git\VendingMachineConsole\obj\Debug\net5.0\VendingMachineConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\VendingMachineConsole\obj\Debug\net5.0\VendingMachineConsole.AssemblyInfoInputs.cache
+D:\git\VendingMachineConsole\obj\Debug\net5.0\VendingMachineConsole.AssemblyInfo.cs
+D:\git\VendingMachineConsole\obj\Debug\net5.0\VendingMachineConsole.csproj.CoreCompileInputs.cache
+D:\git\VendingMachineConsole\bin\Debug\net5.0\VendingMachineConsole.exe
+D:\git\VendingMachineConsole\bin\Debug\net5.0\VendingMachineConsole.deps.json
+D:\git\VendingMachineConsole\bin\Debug\net5.0\VendingMachineConsole.runtimeconfig.json
+D:\git\VendingMachineConsole\bin\Debug\net5.0\VendingMachineConsole.runtimeconfig.dev.json
+D:\git\VendingMachineConsole\bin\Debug\net5.0\VendingMachineConsole.dll
+D:\git\VendingMachineConsole\bin\Debug\net5.0\ref\VendingMachineConsole.dll
+D:\git\VendingMachineConsole\bin\Debug\net5.0\VendingMachineConsole.pdb
+D:\git\VendingMachineConsole\obj\Debug\net5.0\VendingMachineConsole.dll
+D:\git\VendingMachineConsole\obj\Debug\net5.0\ref\VendingMachineConsole.dll
+D:\git\VendingMachineConsole\obj\Debug\net5.0\VendingMachineConsole.pdb
+D:\git\VendingMachineConsole\obj\Debug\net5.0\VendingMachineConsole.genruntimeconfig.cache
